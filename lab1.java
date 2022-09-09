@@ -16,7 +16,7 @@ public class lab1 {
 
         for (indxI = 0; indxI < c.length; indxI++){                               //вложенный цикл для заполнения массива c
             for (byte indxJ = 0; indxJ < c[indxI].length; indxJ++){
-                switch(s[indxI]){
+                switch(s[indxI]){                                                 //оператор switch для проверки значения s[indxI]
                     case 6:
                         c[indxI][indxJ] = Math.tan(Math.pow(Math.pow(x[indxJ], (1.0 / 3.0)), (2 / Math.pow((((1.0 / 2.0) - x[indxJ]) / x[indxJ]), x[indxJ]))));
                         break;
