@@ -1,4 +1,4 @@
-import java.lang.Math;                                                            //класс Math для работы с мтематическими ф-ми
+import java.lang.Math;                                                            //класс Math для работы с математическими ф-ми
 
 public class lab1 {
     public static void main(String[] args) {
