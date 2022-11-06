@@ -1,4 +1,4 @@
-package main.java.moves;
+package main.java.moves.physical;
 
 import ru.ifmo.se.pokemon.PhysicalMove;
 import ru.ifmo.se.pokemon.Type;
@@ -10,6 +10,6 @@ public class Scratch extends PhysicalMove{
 
     @Override
     protected String describe() {
-        return ("использует Scratch");
+        return ("царапает цель когтями");
     }
 }

@@ -1,6 +1,6 @@
 package main.java.pokemons;
 
-import main.java.moves.DisarmingVoice;
+import main.java.moves.special.DisarmingVoice;
 import ru.ifmo.se.pokemon.Type;
 
 public class Kirlia extends Ralts {

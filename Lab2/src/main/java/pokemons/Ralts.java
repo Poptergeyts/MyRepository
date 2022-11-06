@@ -1,7 +1,7 @@
 package main.java.pokemons;
 
-import main.java.moves.DazzlingGleam;
-import main.java.moves.Facade;
+import main.java.moves.special.DazzlingGleam;
+import main.java.moves.physical.Facade;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 

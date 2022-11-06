@@ -1,6 +1,6 @@
 package main.java.pokemons;
 
-import main.java.moves.AerialAce;
+import main.java.moves.physical.AerialAce;
 import ru.ifmo.se.pokemon.Type;
 
 public class Masquerain extends Surskit{

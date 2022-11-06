@@ -1,4 +1,4 @@
-package main.java.moves;
+package main.java.moves.special;
 
 import ru.ifmo.se.pokemon.SpecialMove;
 import ru.ifmo.se.pokemon.Type;
@@ -10,6 +10,6 @@ public class DazzlingGleam extends SpecialMove{
 
     @Override
     protected String describe() {
-        return ("использует DazzlingGleam");
+        return ("наносит урон цели мощной вспышкой света");
     }
 }

@@ -1,6 +1,6 @@
 package main.java.pokemons;
 
-import main.java.moves.Swagger;
+import main.java.moves.status.Swagger;
 import ru.ifmo.se.pokemon.Type;
 
 public class Gallade extends Kirlia{

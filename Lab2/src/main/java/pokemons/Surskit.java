@@ -1,8 +1,8 @@
 package main.java.pokemons;
 
-import main.java.moves.QuickAttack;
-import main.java.moves.Scald;
-import main.java.moves.Swagger;
+import main.java.moves.physical.QuickAttack;
+import main.java.moves.special.Scald;
+import main.java.moves.status.Swagger;
 import ru.ifmo.se.pokemon.Pokemon;
 import ru.ifmo.se.pokemon.Type;
 
